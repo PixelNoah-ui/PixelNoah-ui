@@ -1,7 +1,7 @@
 <!-- Premium GitHub Profile README for PixelNoah-ui -->
 
 <h1 align="center">Hey there 👋, I'm PixelNoah</h1>
-<h3 align="center">Full-Stack Developer | Turning Ideas into Scalable Digital Experiences</h3>
+<h3 align="center">Full-Stack Developer | From Idea to Deployment, I Make It Real</h3>
 
 <p align="center">
   <a href="mailto:pixelnoah8@gmail.com">
@@ -18,32 +18,37 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🚀 **Full-stack developer** passionate about crafting end-to-end digital products.  
-- 💡 I believe **great software** is equal parts engineering and design.  
-- 🌱 Currently learning **backend architecture & cloud infrastructure**.  
-- 🎯 Goal: Build products that scale beautifully and solve real problems.  
-- ⚡ Fun fact: I see every codebase as a story — and I write with purpose.  
+- 🚀 **Full-stack developer** delivering scalable, high-performance web applications.  
+- 💡 Passionate about merging **engineering precision** with **beautiful design**.  
+- 🛠 Skilled in **frontend, backend, databases, cloud, and DevOps**.  
+- 🌱 Currently deep-diving into **backend architecture, database optimization, and deployment automation**.  
+- 🎯 Mission: Turn complex ideas into **real, usable, and reliable digital products**.  
+- ⚡ Fun fact: My commit messages read like a novel — every feature has its own chapter.
 
 ---
 
 ### 🛠 My Tech Stack
 
 #### **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 #### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
 #### **Tools & Deployment**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
@@ -51,8 +56,9 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [**Debbal**](https://github.com/PixelNoah-ui/debbal) | Business website redesign with modern UI/UX. | Next.js, Tailwind CSS |
-| [**The Wild Oasis**](https://github.com/PixelNoah-ui/the-wild-oasis) | Hotel booking management platform. | Next.js, Supabase |
+| **Enterprise LMS Platform** *(Private)* | A full-featured Learning Management System with authentication, payment integration, and analytics dashboard. | Next.js, Tailwind CSS, Node.js, MongoDB, Stripe |
+| **PixelShop E-commerce** *(Private)* | High-performance e-commerce platform with advanced cart, order tracking, and admin dashboard. | Next.js, MySQL, Supabase, Tailwind CSS |
+| **University Collaboration Portal** *(Private)* | Platform for managing courses, departments, and events for multiple universities. | React, Node.js, Express, MongoDB |
 
 ---
 
@@ -73,7 +79,5 @@
 
 ### ✨ Quote I Live By
 <p align="center">
-  <i>“From pixel to database, I build the entire experience.”</i>
+  <i>“From pixel to database, I build the entire experience — and I don’t ship until it’s perfect.”</i>
 </p>
-
----
