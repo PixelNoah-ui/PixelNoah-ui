@@ -6,11 +6,11 @@
 ---
 
 ### 🌟 About Me
-- 💻 I’m a **full-stack developer** passionate about building **scalable apps**.  
-- 🎨 I merge **engineering precision** with **pixel-perfect design**.  
-- 🌱 Currently sharpening my skills in **backend architecture & DevOps**.  
-- 🎯 Mission: Transform complex ideas into **real, usable, reliable digital products**.  
-- ⚡ Fun fact: My commit messages read like **mini stories** 📖.  
+- 💻 I build **scalable, user-centric web applications** that solve real problems.  
+- 🎨 I merge **engineering precision** with **pixel-perfect design** for seamless UX.  
+- 🌱 Currently deepening my expertise in **backend architecture & DevOps**.  
+- 🎯 Mission: Deliver **reliable, maintainable, and visually stunning products** for clients.  
+- ⚡ Fun fact: I treat every commit like a story — every line of code has purpose 📖.  
 
 ---
 
@@ -21,6 +21,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
@@ -29,7 +30,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-#### **Tools & Deployment**
+#### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
@@ -38,16 +39,7 @@
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| **Enterprise LMS Platform** | Full-featured LMS with authentication, payments & analytics. | Next.js, Tailwind, Node.js, MongoDB, Stripe |
-| **PixelShop E-commerce** | High-performance e-commerce with cart, orders & admin dashboard. | Next.js, MySQL, Supabase, Tailwind |
-| **University Collaboration Portal** | Platform for courses, departments & event management. | React, Node.js, Express, MongoDB |
-
----
-
-### 📊 My GitHub in Numbers
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PixelNoah-ui&show_icons=true&theme=radical&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PixelNoah-ui&theme=radical&hide_border=true" height="165" />
@@ -59,7 +51,7 @@
 
 ---
 
-### 🏆 Achievements & Trophies
+### 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PixelNoah-ui&theme=radical&no-frame=true&margin-w=6&row=1&column=7" />
 </p>
