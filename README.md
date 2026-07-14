@@ -1,20 +1,22 @@
 <!-- ========================================= -->
-<!--             PixelNoah README              -->
+
+<!--           PixelNoah GitHub Profile        -->
+
 <!-- ========================================= -->
 
 <div align="center">
 
 # 👋 Hi, I'm **PixelNoah**
 
-### 🚀 Full Stack Software Engineer
+### Full Stack Software Engineer
 
-**Next.js • React • Node.js • TypeScript • Prisma • PostgreSQL**
+Building scalable, high-performance, and modern web applications.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Backend+Engineer;Next.js+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer;Next.js+%7C+React+%7C+Node.js;TypeScript+%7C+Prisma+%7C+PostgreSQL;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=PixelNoah-ui&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=PixelNoah-ui&style=for-the-badge&label=Profile+Views"/>
 
 </div>
 
@@ -22,104 +24,33 @@
 
 # 💻 About Me
 
-I'm a passionate **Full Stack Software Engineer** focused on building scalable, performant and user-friendly web applications from idea to deployment.
+I'm a passionate **Full Stack Software Engineer** specializing in building scalable, responsive, and production-ready web applications. I enjoy transforming ideas into polished digital products with clean architecture, modern UI, and reliable backend systems.
 
-- 🚀 Full Stack Development
-- ⚡ React & Next.js
-- 🔥 Node.js & Express
-- 🗄 PostgreSQL & Prisma
-- 🎨 Tailwind CSS & Modern UI
-- ☁ Cloud Deployment
-- 📚 Always Learning New Technologies
+* 🚀 Full Stack Web Development
+* ⚡ Modern React & Next.js Applications
+* 🔥 REST API & Backend Development
+* 🗄 Database Design with Prisma & PostgreSQL
+* 🎨 Responsive UI with Tailwind CSS
+* ☁ Deployment & Cloud Services
+* 📚 Continuous Learning & Problem Solving
 
 ---
 
-# ⚒ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=typescript" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=redux" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&theme=github_dark&lineCount=2&line1=next.js,Next.js,ffffff;react,React,61DAFB;typescript,TypeScript,3178C6;javascript,JavaScript,F7DF1E;&line2=tailwindcss,TailwindCSS,06B6D4;redux,Redux,764ABC;html5,HTML5,E34F26;css3,CSS3,1572B6;" />
 
 <br><br>
 
-## Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=prisma" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&theme=github_dark&lineCount=2&line1=node.js,Node.js,339933;express,Express,ffffff;prisma,Prisma,2D3748;postgresql,PostgreSQL,4169E1;&line2=mongodb,MongoDB,47A248;mysql,MySQL,4479A1;docker,Docker,2496ED;git,Git,F05032;" />
 
 <br><br>
 
-## Database
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<br><br>
-
-## Tools
-
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=postman" />
-<img src="https://skillicons.dev/icons?i=vercel" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&align=center&theme=github_dark&lineCount=2&line1=github,GitHub,181717;vercel,Vercel,ffffff;postman,Postman,FF6C37;vscode,VSCode,007ACC;&line2=figma,Figma,F24E1E;linux,Linux,FCC624;npm,npm,CB3837;pnpm,pnpm,F69220;" />
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-## 🏋️ Gym Management System
-
-Professional gym management platform featuring
-
-- QR Attendance
-- Membership Management
-- Payment Tracking
-- Analytics Dashboard
-- Reports
-
-**Stack**
-
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS`
-
----
-
-## 🛒 PixelShop
-
-Modern eCommerce Platform
-
-- Authentication
-- Product Management
-- Orders
-- Dashboard
-- Payments
-
-**Stack**
-
-`Next.js` `Node.js` `Prisma` `PostgreSQL`
-
----
-
-## 🤖 Meetily AI
-
-AI Collaboration Platform
-
-- AI Chat
-- Authentication
-- Workspaces
-- Real-time Features
 
 ---
 
@@ -127,35 +58,19 @@ AI Collaboration Platform
 
 <div align="center">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=PixelNoah-ui&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PixelNoah-ui&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img
-height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=PixelNoah-ui&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PixelNoah-ui&theme=github-dark&hide_border=true"/>
 
 <br><br>
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelNoah-ui&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelNoah-ui&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PixelNoah-ui&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -173,9 +88,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelNoah-ui
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+  
+
 <a href="https://github.com/PixelNoah-ui">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+  
 
 <a href="https://linkedin.com/in/pixelnoah">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -189,7 +108,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelNoah-ui
 
 ## 💡 Favorite Quote
 
-> *"Code is more than solving problems — it's creating experiences that matter."*
+> **"Code is more than solving problems — it's about building experiences that make an impact."**
 
 </div>
 
@@ -199,6 +118,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelNoah-ui
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+If you enjoy my work, consider starring one of my repositories.
 
 </div>
