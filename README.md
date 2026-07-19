@@ -56,27 +56,59 @@ I'm a passionate **Full Stack Software Engineer** specializing in building scala
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&theme=github_dark&lineCount=2&line1=next.js,Next.js,ffffff;react,React,61DAFB;typescript,TypeScript,3178C6;javascript,JavaScript,F7DF1E;&line2=tailwindcss,TailwindCSS,06B6D4;redux,Redux,764ABC;html5,HTML5,E34F26;css3,CSS3,1572B6;">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&theme=light&lineCount=2&line1=next.js,Next.js,000000;react,React,61DAFB;typescript,TypeScript,3178C6;javascript,JavaScript,F7DF1E;&line2=tailwindcss,TailwindCSS,06B6D4;redux,Redux,764ABC;html5,HTML5,E34F26;css3,CSS3,1572B6;">
-  <img alt="Frontend stack" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&theme=github_dark&lineCount=2&line1=next.js,Next.js,ffffff;react,React,61DAFB;typescript,TypeScript,3178C6;javascript,JavaScript,F7DF1E;&line2=tailwindcss,TailwindCSS,06B6D4;redux,Redux,764ABC;html5,HTML5,E34F26;css3,CSS3,1572B6;">
-</picture>
+<table align="center">
+<tr>
+<td align="center" colspan="4"><b>🎨 Frontend</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></td>
+<td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
+</tr>
 
-<br><br>
+<tr><td colspan="4"><br></td></tr>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&theme=github_dark&lineCount=2&line1=node.js,Node.js,339933;express,Express,ffffff;prisma,Prisma,2D3748;postgresql,PostgreSQL,4169E1;&line2=mongodb,MongoDB,47A248;mysql,MySQL,4479A1;docker,Docker,2496ED;git,Git,F05032;">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&theme=light&lineCount=2&line1=node.js,Node.js,339933;express,Express,000000;prisma,Prisma,2D3748;postgresql,PostgreSQL,4169E1;&line2=mongodb,MongoDB,47A248;mysql,MySQL,4479A1;docker,Docker,2496ED;git,Git,F05032;">
-  <img alt="Backend stack" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&theme=github_dark&lineCount=2&line1=node.js,Node.js,339933;express,Express,ffffff;prisma,Prisma,2D3748;postgresql,PostgreSQL,4169E1;&line2=mongodb,MongoDB,47A248;mysql,MySQL,4479A1;docker,Docker,2496ED;git,Git,F05032;">
-</picture>
+<tr>
+<td align="center" colspan="4"><b>⚙️ Backend</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
+</tr>
 
-<br><br>
+<tr><td colspan="4"><br></td></tr>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&align=center&theme=github_dark&lineCount=2&line1=github,GitHub,181717;vercel,Vercel,ffffff;postman,Postman,FF6C37;vscode,VSCode,007ACC;&line2=figma,Figma,F24E1E;linux,Linux,FCC624;npm,npm,CB3837;pnpm,pnpm,F69220;">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&align=center&theme=light&lineCount=2&line1=github,GitHub,000000;vercel,Vercel,000000;postman,Postman,FF6C37;vscode,VSCode,007ACC;&line2=figma,Figma,F24E1E;linux,Linux,FCC624;npm,npm,CB3837;pnpm,pnpm,F69220;">
-  <img alt="Tools" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&align=center&theme=github_dark&lineCount=2&line1=github,GitHub,181717;vercel,Vercel,ffffff;postman,Postman,FF6C37;vscode,VSCode,007ACC;&line2=figma,Figma,F24E1E;linux,Linux,FCC624;npm,npm,CB3837;pnpm,pnpm,F69220;">
-</picture>
+<tr>
+<td align="center" colspan="4"><b>🛠 Tools</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
+<td align="center"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" /></td>
+</tr>
+</table>
 
 </div>
 
