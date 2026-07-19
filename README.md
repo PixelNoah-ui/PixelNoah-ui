@@ -18,22 +18,21 @@
 
 <br>
 
-<!--
-  🖼️ SKETCH PHOTO — placeholder until you send a photo to convert.
-  Once you upload one, I'll generate assets/profile-sketch.png (and a
-  light-mode-friendly variant) and you just commit them here.
--->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-sketch-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-sketch-light.png">
-  <img alt="PixelNoah sketch portrait" src="assets/profile-sketch-light.png" width="180" style="border-radius:50%;margin:18px 0;">
+  <img alt="PixelNoah sketch portrait" src="assets/profile-sketch-light.png" width="200">
 </picture>
 
-<br>
+<br><br>
 
 <a href="https://github.com/PixelNoah-ui">
   <img src="https://komarev.com/ghpvc/?username=PixelNoah-ui&style=for-the-badge&color=6366F1&label=Profile+Views" />
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/📍-Addis%20Ababa%2C%20Ethiopia-6366F1?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/💼-Open%20to%20Work-22C55E?style=for-the-badge" />
 
 </div>
 
